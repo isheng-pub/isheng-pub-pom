@@ -31,7 +31,7 @@
 		<swagger2.version>2.9.2</swagger2.version>
 		<swagger.version>1.5.21</swagger.version>
 		<contiperf.version>2.1.0</contiperf.version>
-		<guava.version>26.0-jre</guava.version>
+		<guava.version>29.0-jre</guava.version>
 		<shiro-spring.version>1.4.2</shiro-spring.version>
 		<redis.version>2.2.2.RELEASE</redis.version>
 	</properties>
